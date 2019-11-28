@@ -1,5 +1,5 @@
 Address = sh.p1pe.net
-Subnet = 10.0.2.1/24
+Subnet = 10.0.2.1/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAlSQDcLhad4wmj0GfYnlAGY4K8en3mE1mLdVumVKuFngcyF8BUL3D
