@@ -1,0 +1,11 @@
+Address = sh.p1pe.net
+Subnet = 10.0.2.1/24
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAlSQDcLhad4wmj0GfYnlAGY4K8en3mE1mLdVumVKuFngcyF8BUL3D
+mwdINorFOIn/aDSL+eKttV2CJ4gq0j1/owZ9zyjuhrEJOP4b3gCrOuxRNAHDpAwi
+6FllIkZmwShaOorSYJMSUt5ekaWUxAF5r/mxUPrRw75lHRHcE7dG7tm7SK3Es3Yy
+A5JQrTim5rCMnd/BqhRsqjAiVWB+4meCnSckErR1igRcmSA+KEEAFslOs842qG9S
+mVM2rNhu9vTk7amCN5lH+B4fr3Inh5ejQQ/bBAhaAAnp3IqBnToL5WqosoOf3Tuj
+DZ4gETCkrCjrPk4A/2Itjd3PiwxqADfUfQIDAQAB
+-----END RSA PUBLIC KEY-----
