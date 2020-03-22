@@ -1,5 +1,6 @@
 Address = vpn.p1pe.net
 Subnet = 10.0.2.1/32
+Port = 1
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA8OdJcENrwyc6gbtqe7IHsShDBGwLaMWGQuQnlQA+fyxpCm8DYrNI
